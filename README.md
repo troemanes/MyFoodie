@@ -51,7 +51,7 @@ In the future, I might redesign the UI to make it more modern and professional, 
 - XML  
 
 ### Features  
-- Retrofit for consuming RESTful APIs
+- Retrofit for RESTful APIs
 - POJO (Plain Old Java Object) for mapping API responses to data classes
 - Room for local data storage and caching  
 - RecyclerView for displaying meal lists  

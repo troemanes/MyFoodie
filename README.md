@@ -51,7 +51,9 @@ In the future, I might redesign the UI to make it more modern and professional, 
 - XML  
 
 ### Features  
-- RESTful API for fetching meal content  
+- Retrofit for consuming RESTful APIs
+- POJO (Plain Old Java Object) for mapping API responses to data classes
+- Room for local data storage and caching  
 - RecyclerView for displaying meal lists  
 - ViewModel architecture for managing UI-related data  
 - Glide for loading and displaying images efficiently  
